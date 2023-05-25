@@ -1,0 +1,235 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#canto{
+    width: 55%;
+    position: relative;
+    display: inline-block;
+
+}
+
+#logo{
+    width: 20%;
+    margin-top: -19%;
+    margin-left: 69%;
+
+}
+
+#borda{
+    width: 28%;
+    margin-top: -2%;
+    margin-left: 72%;
+
+}
+
+#titulo{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 30%;
+    margin-top: -38%;
+    margin-left: 37%;
+    font-size: 110%;
+    color:#3772FF;
+    ;
+
+}
+
+#bobo{
+    cursor: pointer;
+    margin-top: -6.3%;
+    margin-left: 18.5%;
+    position: absolute;
+    background-color: #36d6ad;
+    border: transparent;
+    
+}
+
+#tão{
+    cursor: pointer;
+    margin-top: -6.3%;
+    margin-left: 21.4%;
+    position: absolute;
+    background-color: #36d6ad;
+    border:#36d6ad;
+    
+}
+
+
+#quadrado{
+    display: inline-block;
+    width: 30vw;
+    height: 65vh;
+    background-color: #F6F6F6;
+    margin-top: 1%;
+    margin-left: 37%;
+    border-radius: 1%;
+    position: absolute;
+    
+}
+
+.espaçoA{
+    width: 87%;
+    position: absolute;
+    height: 35px;
+    left: 27px;
+    top: 50px;
+    color: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(122, 122, 122, 0.15);
+    border-radius: 4px;
+}
+
+.placeholder{
+    color: rgb(196, 196, 196);
+}
+
+.espaçoB{
+    width: 87%;
+    position: absolute;
+    height: 35px;
+    left: 27px;
+    top: 120px;
+    color: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(122, 122, 122, 0.15);
+    border-radius: 4px;
+}
+
+.espaçoC{
+    width: 87%;
+    position: absolute;
+    height: 35px;
+    left: 27px;
+    top: 190px;
+    color: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(122, 122, 122, 0.15);
+    border-radius: 4px;
+}
+
+.espaçoD{
+    width: 87%;
+    position: absolute;
+    height: 120px;
+    left: 27px;
+    top: 280px;
+    color: #FFFFFF;
+    box-shadow: 0px 2px 2px rgba(122, 122, 122, 0.15);
+    border-radius: 4px;
+}
+
+#tex1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #3772FF;    
+    font-size: 14px;
+    width: 330px;
+    margin-top: 30px;
+    margin-left: -110px;
+    text-align: center;
+
+}
+
+#tex2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #3772FF;    
+    font-size: 14px;
+    width: 330px;
+    margin-top: 47px;
+    margin-left: -110px;
+    text-align: center;
+
+}
+
+#tex3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #3772FF;    
+    font-size: 14px;
+    width: 330px;
+    margin-top: 50px;
+    margin-left: -110px;
+    text-align: center;
+
+}
+
+#tex4{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #3772FF;    
+    font-size: 14.5px;
+    width: 330px;
+    margin-top: 65px;
+    margin-left: -63px;
+    text-align: center;
+
+}
+
+input{
+    text-align:unset;
+    text-transform:none;
+    text-size-adjust:initial;
+
+}
+
+.frame {
+    width: 90%;
+    margin: 40px auto;
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 20px;
+  }
+  button {
+    margin: 20px;
+  }
+  .custom-btn {
+    width: 200px;
+    height: 33px;
+    color: #fff;
+    border-radius: 6px;
+    padding: 12px 27px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+     box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+     7px 7px 20px 0px rgba(0,0,0,.1),
+     4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+  }
+  
+  .btn-1 {
+    background: #FC7071;
+    background: #FC7071;
+    border: none;
+    padding: none;
+  }
+  .btn-1:hover {
+     background: #FC7071;
+  background: #FC7071;
+  }
+
+  .escrita{
+    margin-top: -6px;
+}
+
+footer{
+    display: block;
+    height: 10.4vh;
+    background-color: #36d6ad;
+    margin-left: -10px;
+    margin-top: 527px;
+    margin-right: 0px;
+}
+
+
+
+
+
+
+
+
+
